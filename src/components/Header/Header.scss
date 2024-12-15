@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(105, 46, 32);
+
+}
+
+.titulo{
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navegador{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
